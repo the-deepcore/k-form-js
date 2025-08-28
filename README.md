@@ -5,14 +5,14 @@ This package has been initiated using https://github.com/team-innovation/vue-sfc
 
 Enhanced form components, inspired by formik, designed to work with server generated forms by Ruby on Rails
 
-Should be used in pair with [k-form-rb](https://github.com/kundigo/k-form-rb)
+Should be used in pair with [k-form-rb](https://github.com/the-deepcore/k-form-rb)
 
 # Install the package
 
 This package belongs to Kundigo and it's supposed to remain private and to be used in kundigo's projects. Add this package to `package.json` file
 
 ```js
-"k-form-js": "git+https://github.com/kundigo/k-form-js.git#master",
+"k-form-js": "git+https://github.com/the-deepcore/k-form-js.git",
 ```
 
 Then import the components you need in your Rails App.
